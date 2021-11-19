@@ -1,5 +1,4 @@
 # Joseph D. Slivka
 
-### Undergraduate Research Assistant
-### Michigan State University
-
+### Physics Graduate Student
+### University of California, Berkeley
