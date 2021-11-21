@@ -3,6 +3,8 @@
 ## Summer 2021
 ## in association with the Yildiz Lab
 
+![](Mario MuSHBRooM.png)
+
 ### Background
 Large and oblong cells such as neurons are too large to rely on diffusion, the natural movement of material from areas of high concentration to lower concentration, to transport cargo in the cell. Therefore, eukaryotic cells have a well established intracellular network of microtubules which act as highways for motor proteins to transport cargo. Kinesin is a motor protein that transports out towards the cell periphery and Dynein inwards towards the nucleus.
 
@@ -16,4 +18,4 @@ Preparing the protein requires creating a specific DNA template, and then expres
 
 By preparing microtubules on a coverslip and flowing in kinesin and MAP, you can image these proteins if they have a fluorescent tag using Total Internal Reflection Microscopy (TIRF). Then, using analysis software, one can extract average motility parameters such as average distance traveled, time, and velocity, number of stalls, etc.
 
-![TIRF Image of Kinesin walking on microtubules in vitro](500x JC Kif-5b 100nM FL MAP7_1_MMStack_Pos0_gif)
+![TIRF Image of Kinesin walking on microtubules in vitro](500x JC Kif-5b 100nM FL MAP7_1_MMStack_Pos0_gif.gif)
