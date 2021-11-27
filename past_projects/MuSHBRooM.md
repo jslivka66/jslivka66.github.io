@@ -3,7 +3,7 @@
 ## Summer 2021
 ## in association with the Yildiz Lab
 
-![](Mario MuSHBRooM.png)
+![](Mario MuSHBRooM.png)<img width="120" height="200"/>
 
 ### Background
 Large and oblong cells such as neurons are too large to rely on diffusion, the natural movement of material from areas of high concentration to lower concentration, to transport cargo in the cell. Therefore, eukaryotic cells have a well established intracellular network of microtubules which act as highways for motor proteins to transport cargo. Kinesin is a motor protein that transports out towards the cell periphery and Dynein inwards towards the nucleus.

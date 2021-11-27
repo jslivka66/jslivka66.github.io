@@ -17,6 +17,6 @@ Recruiting Blocker Disordered Asymmetric Exclusion Principle
 ### Past Projects
 [Project MuSHBRooM](https://jslivka66.github.io/past_projects/MuSHBRooM.html): Single molecule observation of motor protein characteristics in interacting with microtubule associated protein mutants. Relevant to understanding cellular transport and its applicability in neurodegenerative and other functional diseases
 
-[CDI Reconstruction on Gold Superlattice Self-Assembly](https://jslivka66.github.io/past_projects/CDI_AU_SL.html): Beamline experiments to understand gold superlattice self-assembly. Relevant to creating nanoscale electronics.
+[CDI Reconstruction on Gold Superlattice Self-Assembly](https://jslivka66.github.io/past_projects/CDI_Au_SL.html): Beamline experiments to understand gold superlattice self-assembly. Relevant to creating nanoscale electronics.
 
 ## Outside of Research
