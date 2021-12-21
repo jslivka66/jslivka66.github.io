@@ -14,9 +14,21 @@ Biophysics has extensively studied these motor proteins, but there is still a lo
 My project in association with the Yildiz lab was to understand how changing the height above the microtubule where Kinesin bound to MAP7 may change the dynamics of it walking. By modifying the steric height of the kinesin binding region of MAP7 (MuSHBRooM), this would shed further light onto how Kinesin interacts with native MAP7.
 
 ### Techniques
+
+#### Protein Design and Purification
+
 Preparing the protein requires creating a specific DNA template, and then expressing protein from this DNA template. Finally, after growing protein in cells, you can harvest the protein and purify it. Both kinesin and MAP7 and all its mutants can be made recombinantly.
+
+#### TIRF Microscopy
 
 By preparing microtubules on a coverslip and flowing in kinesin and MAP, you can image these proteins if they have a fluorescent tag using Total Internal Reflection Microscopy (TIRF). Then, using analysis software, one can extract average motility parameters such as average distance traveled, time, and velocity, number of stalls, etc.
 
 <img src="https://jslivka66.github.io/past_projects/500x_JC_Kif-5b_100nM_FL_MAP7_1_MMStack_Pos0_gif.gif" width="500" />
 <figcaption> TIRF Image of Kinesin walking on microtubules in vitro </figcaption>
+
+#### FIESTA Analysis
+
+To analyze these movies, we adapted existing single molecule tracking code [FIESTA](https://fusionforge.zih.tu-dresden.de/plugins/mediawiki/wiki/fiesta/index.php/FIESTA) and used handwritten MATLAB scripts to analyze these massive amounts of data. Compared to the previous method of by-hand analysis, this improved analysis efficiency by 1500%.
+
+
+### Results
