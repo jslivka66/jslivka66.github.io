@@ -1,4 +1,8 @@
---: [Home]("https://jslivka66.github.io/index.html")
+<p align="center">
+  <a href="https://jslivka66.github.io/index.html">
+    Home
+  </a>
+</p>
 
 # Project MuSHBRooM: Modulating Steric Height of Kinesin Binding Region of MAP7
 
