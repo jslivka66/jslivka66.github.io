@@ -31,4 +31,6 @@ Using coherent beamlines, such as at the Stanford Linear Accelerator, we were ab
 
 Scattering due to quantum mechanics as a formalism was developed in the 1920s. Understanding how to go from a real space electron density to the image it forms on a detector in q-space is well-known and can be computed computationally to good precision. This is equivalent to a forward Fourier Transform where what is seen on the detector is the real space projection of this transformation.
 
-The inverse problem, however, is less trivial. Due to the loss of phase information from the forward Fourier Transform, the inverse fourier transform has a loss of information and cannot uniquely find its real-space counterpart. 
+The inverse problem, however, is less trivial. Due to the loss of phase information from the forward Fourier Transform, the inverse fourier transform has a loss of information and cannot uniquely find its real-space counterpart. This leads to a common problem in all diffraction experiments known as "the inverse fourier problem".
+
+To solve this problem, one can implement machine learning algorithms to iteratively improve the real space image, see its diffraction pattern, observe how well it matches the actual data, make corrections in the real space image and continue to cycle. Coherent Diffractive Imaging Reconstruction is one of the ways to figure this out.
