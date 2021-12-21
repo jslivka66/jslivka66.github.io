@@ -13,11 +13,22 @@ Recently, physical chemists have been able to sizably increase the packing facto
 
 ![Real space images of different Gold (Au) superlattices](Au_SL_with planes.png)
 
+
 ### SLSA
 
-As a rotation student in Naomi Ginsberg's Lab, I became familiar with small angle coherent x-ray experiments and analyzing diffraction pattern data.
+As a rotation student in Naomi Ginsberg's Lab, I became familiar with small angle coherent x-ray experiments and analyzing diffraction pattern data. In particular, we attempted to do Coherent Diffractive Imaging Reconstruction (CDI) to reconstruct real-space images of electron density from the diffracted pattern.
 
 
 ### Techniques
 
-In order to study real-time self-assembly in a solution, one is required to perform complicated beamline experiments. Direct light microscopy is ill-fitted to observe nanometer sized structure due to diffraction limited resolution. However, X-rays are photons with the correct light characteristics to observe the intrasuperlattice spacing. 
+In order to study real-time self-assembly in a solution, one is required to perform complicated beamline experiments. Direct light microscopy is ill-fitted to observe nanometer sized structure due to diffraction limited resolution. However, X-rays are photons with the correct wavelength characteristics to observe the intrasuperlattice spacing, but in its diffraction pattern. Then, using these diffraction patterns
+
+#### Scattering Experiments
+
+Using coherent beamlines, such as at the Stanford Linear Accelerator, we were able to see patterns in inverse distance space (known commonly as q-space) and analyze this data to observe particle structure and size. This is a common way to observe structure for countless applications, but has an especially well-formed pattern for infinite, well-spaced crystal structures
+
+#### Reconstruction
+
+Scattering due to quantum mechanics as a formalism was developed in the 1920s. Understanding how to go from a real space electron density to the image it forms on a detector in q-space is well-known and can be computed computationally to good precision. This is equivalent to a forward Fourier Transform where what is seen on the detector is the real space projection of this transformation.
+
+The inverse problem, however, is less trivial. Due to the loss of phase information from the forward Fourier Transform, the inverse fourier transform has a loss of information and cannot uniquely find its real-space counterpart. 
