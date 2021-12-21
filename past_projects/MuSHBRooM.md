@@ -1,4 +1,4 @@
-<p align="center">
+<p align="right">
   <a href="https://jslivka66.github.io/index.html">
     Home
   </a>
