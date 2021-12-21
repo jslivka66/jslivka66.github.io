@@ -3,7 +3,10 @@
 ### Physics Graduate Student
 ### University of California, Berkeley
 
-![Joseph presenting his work on human G-Quadruplex at the Fall 2019 MSU Cryo-EM Symposium](self_MSU_poster.png)
+<img src="https://jslivka66.github.io/self_MSU_poster.png" />
+<figcaption> Joseph presenting his work on human G-Quadruplex at the Fall 2019 MSU Cryo-EM Symposium </figcaption>
+
+<br>
 
 [About](https://jslivka66.github.io/about.html)
 
