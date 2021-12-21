@@ -6,6 +6,8 @@
 ## in association with the Yildiz Lab
 
 <img src="https://jslivka66.github.io/past_projects/Mario_MuSHBRooM.png" width="240" />
+<br>
+<br>
 
 ## Background
 Large and oblong cells such as neurons are too large to rely on diffusion, the natural movement of material from areas of high concentration to lower concentration, to transport cargo in the cell. Therefore, eukaryotic cells have a well established intracellular network of microtubules which act as highways for motor proteins to transport cargo. Kinesin is a motor protein that transports out towards the cell periphery and Dynein inwards towards the nucleus.
@@ -27,8 +29,8 @@ By preparing microtubules on a coverslip and flowing in kinesin and MAP, you can
 
 <img src="https://jslivka66.github.io/past_projects/500x_JC_Kif-5b_100nM_FL_MAP7_1_MMStack_Pos0_gif.gif" width="700" />
 <figcaption> TIRF Image of Kinesin walking on microtubules in vitro </figcaption>
-
-
+<br>
+<br>
 
 ### FIESTA Analysis
 

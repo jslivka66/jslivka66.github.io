@@ -13,7 +13,8 @@ Recently, physical chemists have been able to sizably increase the packing facto
 
 <img src="https://jslivka66.github.io/past_projects/Au_SL_with_planes.png" width="800" />
 <figcaption> Real space images of different Gold (Au) superlattices </figcaption>
-
+<br>
+<br>
 
 ## SLSA
 
