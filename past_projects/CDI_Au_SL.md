@@ -1,7 +1,15 @@
+<p align="right">
+  <a href="https://jslivka66.github.io/index.html">
+    Home
+  </a>
+</p>
+
 # Coherent Diffraction Imaging Reconstruction of Gold Superlattice Self-Assembly
 
 ## Spring 2021
 ## in association with the Ginsberg Group
+
+<br>
 
 ## Background
 
@@ -13,7 +21,6 @@ Recently, physical chemists have been able to sizably increase the packing facto
 
 <img src="https://jslivka66.github.io/past_projects/Au_SL_with_planes.png" width="800" />
 <figcaption> Real space images of different Gold (Au) superlattices </figcaption>
-<br>
 <br>
 
 ## SLSA
