@@ -1,3 +1,5 @@
+--: [Home]("https://jslivka66.github.io/index.html")
+
 # Project MuSHBRooM: Modulating Steric Height of Kinesin Binding Region of MAP7
 
 ## Summer 2021
@@ -25,6 +27,8 @@ By preparing microtubules on a coverslip and flowing in kinesin and MAP, you can
 
 <img src="https://jslivka66.github.io/past_projects/500x_JC_Kif-5b_100nM_FL_MAP7_1_MMStack_Pos0_gif.gif" width="700" />
 <figcaption> TIRF Image of Kinesin walking on microtubules in vitro </figcaption>
+
+
 
 ### FIESTA Analysis
 
