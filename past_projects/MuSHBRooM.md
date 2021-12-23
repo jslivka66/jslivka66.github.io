@@ -26,6 +26,10 @@ My project in association with the Yildiz lab was to understand how changing the
 
 Preparing the protein requires creating a specific DNA template, and then expressing protein from this DNA template. Finally, after growing protein in cells, you can harvest the protein and purify it. Both kinesin and MAP7 and all its mutants can be made recombinantly.
 
+<img src="https://jslivka66.github.io/past_projects/cells_in_tube.jpg" width="240" />
+<figcaption> Me holding approximately 750 million purified insect cells in each tube that will soon be destroyed to extract modified MAP7 protein </figcaption>
+<br>
+
 ### TIRF Microscopy
 
 By preparing microtubules on a coverslip and flowing in kinesin and MAP, you can image these proteins if they have a fluorescent tag using Total Internal Reflection Microscopy (TIRF). Then, using analysis software, one can extract average motility parameters such as average distance traveled, time, and velocity, number of stalls, etc.
