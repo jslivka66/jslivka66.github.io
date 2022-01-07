@@ -15,7 +15,7 @@
 [Research Gate](https://www.researchgate.net/profile/Joseph-Slivka)
 
 ### Current Projects
-Recruiting Blocker Disordered Asymmetric Exclusion Principle
+Recruiting Defect Disordered Asymmetric Exclusion Process
 
 ### Past Projects
 [Project MuSHBRooM](https://jslivka66.github.io/past_projects/MuSHBRooM.html): Single molecule observation of motor protein characteristics in interacting with microtubule associated protein mutants. Relevant to understanding cellular transport and its applicability in neurodegenerative and other functional diseases

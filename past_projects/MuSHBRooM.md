@@ -18,7 +18,7 @@ Large and oblong cells such as neurons are too large to rely on diffusion, the n
 Biophysics has extensively studied these motor proteins, but there is still a lot of work to be done understanding how these motor proteins interact with the many other proteins that coat the microtubule in the cell. These so-called Microtubule Associated Proteins (MAPs) have shown to both inhibit and enhance select motor proteins. But what are the exact dynamics of these interactions? This is an active question in the field.
 
 ## Project MuSHBRooM
-My project in association with the Yildiz lab was to understand how changing the height above the microtubule where Kinesin bound to MAP7 may change the dynamics of it walking. By modifying the steric height of the kinesin binding region of MAP7 (MuSHBRooM), this would shed further light onto how Kinesin interacts with native MAP7.
+My project in association with the [Yildiz Lab](https://www.yildizlab.org/) was to understand how changing the height above the microtubule where Kinesin bound to MAP7 may change the dynamics of it walking. By modifying the steric height of the kinesin binding region of MAP7 (MuSHBRooM), this would shed further light onto how Kinesin interacts with native MAP7. I did this under advisement of graduate student Jon Fernandes.
 
 ## Techniques
 

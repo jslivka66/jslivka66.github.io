@@ -7,7 +7,7 @@
 # Coherent Diffraction Imaging Reconstruction of Gold Superlattice Self-Assembly
 
 ## Spring 2021
-## in association with the Ginsberg Group
+## in association with the [Ginsberg Group](http://www.cchem.berkeley.edu/nsggrp/)
 
 <br>
 
@@ -25,7 +25,7 @@ Recently, physical chemists have been able to sizably increase the packing facto
 
 ## SLSA
 
-As a rotation student in Naomi Ginsberg's Lab, I became familiar with small angle coherent x-ray experiments and analyzing diffraction pattern data. In particular, we attempted to do Coherent Diffractive Imaging Reconstruction (CDI Reconstruction) to reconstruct real-space images of electron density from the diffracted pattern. This was only one aspect of a project which also included designing an apparatus that could test these assembled particles, stabilizing the particles sufficiently in a capillary, and then training a beam onto these less than micron sized particles to see diffraction data.
+As a rotation student in the [Ginsberg Group](http://www.cchem.berkeley.edu/nsggrp/), I became familiar with small angle coherent x-ray experiments and analyzing diffraction pattern data. In particular, we attempted to do Coherent Diffractive Imaging Reconstruction (CDI Reconstruction) to reconstruct real-space images of electron density from the diffracted pattern. This was only one aspect of a project which also included designing an apparatus that could test these assembled particles, stabilizing the particles sufficiently in a capillary, and then training a beam onto these less than micron sized particles to see diffraction data.
 
 
 ## Techniques
