@@ -9,8 +9,6 @@
 ## Fall 2018 - Fall 2019
 ## with the Comstock Lab in association with the Schmidt Lab
 
-<img src="https://jslivka66.github.io/past_projects/Mario_MuSHBRooM.png" width="240" />
-<br>
 
 ## Background
 Cancer is one of the largest causes of death in first world countries. Decades of research have gone into developing cancer treatments. However, a major question in biology is understanding cancer's emergence from molecular processes. A major proponent in 90% of cancers is the activation of the protein Telomerase, a proponent in extending the number of cell generations.
