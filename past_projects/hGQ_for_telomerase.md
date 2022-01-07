@@ -16,9 +16,13 @@
 Cancer is one of the largest causes of death in first world countries. Decades of research have gone into developing cancer treatments. However, a major question in biology is understanding cancer's emergence from molecular processes. A major proponent in 90% of cancers is the activation of the protein Telomerase, a proponent in extending the number of cell generations.
 
 ### What is the role of Telomerase?
-A basic process of life is to replicate its genetic code for the next generation. As organisms become more complex, genomic replication also increases in complexity. This is especially true for organisms that do not have circular plasmids to carry their genome, such as humans who have linear chromosomes. Every time a human chromosome is duplicated some of the ends of the chromosome are chopped off. Luckily, there is a built in telomeric repeat that is not vital to be transcribed. Most cells would deplete this "buffer" in 50-70 duplications (read more about the Hayflick Limit). Some cells need to be constantly replicated, such as stem cells, gametes, and epidermal cells. Telomerase activates and adds extra telomeric repeats to build up the buffer. Therefore, the cells have nearly limitless reproduction potential.
+A basic process of life is to replicate its genetic code for the next generation. As organisms become more complex, genomic replication also increases in complexity. This is especially true for organisms that do not have circular plasmids to carry their genome, such as humans who have linear chromosomes. Every time a human chromosome is duplicated some of the ends of the chromosome are chopped off. Luckily, there is a built in telomeric repeat that is not vital to be transcribed. Most cells would deplete this "telomere" in 50-70 duplications (read more about the Hayflick Limit). Some cells need to be constantly replicated, such as stem cells, gametes, and epidermal cells. Telomerase activates and adds extra telomeric repeats to build up the buffer. Therefore, the cells have nearly limitless reproduction potential.
 
-However, this limitless reproduction is a crucial problem in cancer cells. Major cancers activate telomerase so they can continuously reproduce and their growth expounds without cell death. Therefore, understanding the mechanisms of telomerase, how it adds repeats to cells, is vital both for understanding how telomerase fails in certain diseases and how we could make it fail in cancerous cells.
+<img src="https://jslivka66.github.io/past_projects/telomere_shortening.jpg" width="240" />
+<figcaption> Diagram demonstrating the end replication problem in human chromosomes. Courtesy of Tamar et al. </figcaption>
+<br>
+
+However, this limitless reproduction is a crucial part of cancer survival. Major cancers activate telomerase so they can continuously reproduce and their growth expounds without cell death. Therefore, understanding the mechanisms of telomerase, how it adds repeats to chromosomes, is vital both for understanding how telomerase fails in certain diseases and how we could inhibit it in cancerous cells to prevent uncontrolled growth.
 
 
 ## Controls for processive telomerase observation
