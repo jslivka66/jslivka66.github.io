@@ -7,7 +7,7 @@
 # Project RD-DASEP: Recruiting Defect Disordered Asymmetric Exclusion Process
 
 ## Fall 2021
-## in association with the Limmer Group
+## in association with the [Limmer Group](http://www.cchem.berkeley.edu/dtlgrp/)
 
 
 
@@ -17,10 +17,11 @@ The **D**isordered **As**ymmetric **E**xclusion **P**rocess (DASEP) is a well-st
 - Asymmetric: Particles have a preferential direction of movement. If they can only move in one direction, then it is deemed totally asymmetric
 - Exclusion: Two particles cannot simultaneously occupy the same site, nor can particles "jump" over another particle
 
+This process is famous in its description of a one dimensional ideal gas. However, adapting it to stochastic biophysics processes are a new application of this sort of mean field theory.
 
 
 ## Project RD-DASEP
-My project in association with the Limmer Group was to expand the DASEP model to fit in the framework of MAP-motor interactions as studied in the Yildiz Lab.
+My project in association with the [Limmer Group](http://www.cchem.berkeley.edu/dtlgrp/) was to expand the DASEP model to fit in the framework of MAP-motor interactions as studied in the Yildiz Lab, such as my rotation described [here](https://jslivka66.github.io/past_projects/MuSHBRooM.html).
 
 ## Techniques
 

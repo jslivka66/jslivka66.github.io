@@ -22,4 +22,6 @@ Recruiting Defect Disordered Asymmetric Exclusion Process
 
 [CDI Reconstruction on Gold Superlattice Self-Assembly](https://jslivka66.github.io/past_projects/CDI_Au_SL.html): Beamline experiments to understand gold superlattice self-assembly. Relevant to creating nanoscale electronics.
 
+[Controls for Observing Telomerase Processing using Optical Tweezers](https://jslivka66.github.io/past_projects/hGQ_for_telomerase.html): Single molecule optical fluorescence tweezers experiments on human G-Quadruplex to contribute to understanding of telomerase processive behavior. Relevant to cancer treatment and determining mechanism of extending cell reproducibility.
+
 ## Outside of Research
