@@ -32,9 +32,6 @@ Observing the processive behavior of a single telomerase complex adding telomeri
 
 To use an optical trap, one cannot directly expose the structure of interest to the intense lasers required to keep an object controlled. Therefore, we designed multiple constructs with hGQ in between a DNA linker that attached to beads that are held in the trap. The multiple designs were necessary to narrow down the odd behavior of the construct.
 
-<img src="https://jslivka66.github.io/past_projects/cells_in_tube.jpg" width="240" />
-<figcaption> Me holding approximately 750 million purified insect cells in each tube that will soon be destroyed to extract modified MAP7 protein </figcaption>
-<br>
 
 ### Constant Force Single Molecule Optical Trapping
 
@@ -42,9 +39,6 @@ For more detail on Single Molecule Optical Trapping, check out the description h
 
 We utilized the high resolution traps ability to maintain constant pico-Newton forces (approximately 7 billionths the force to pick a penny off the ground and put it in your pocket) to measure the extension of single hGQ structures as a function of time. We used this to estimate average kinetic rates of hGQ structure formation and deformation, similar to how one would classify a folded and unfolded state in a protein.
 
-<img src="https://jslivka66.github.io/past_projects/500x_JC_Kif-5b_100nM_FL_MAP7_1_MMStack_Pos0_gif.gif" width="700" />
-<figcaption> TIRF Image of Kinesin walking on microtubules in vitro </figcaption>
-<br>
 
 ### Fluorescence Resonance Energy Transfer Optical Tweezers (Fleezers)
 
